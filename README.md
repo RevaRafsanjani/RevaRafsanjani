@@ -14,3 +14,6 @@ Feel free to contact me at my [Linkedin](www.linkedin.com/in/reva-rasya-rafsanja
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
 </a>
 </p>
+
+<img height="360"  src="https://c4.wallpaperflare.com/wallpaper/782/245/80/solo-leveling-sung-jin-woo-manhwa-hd-wallpaper-preview.jpg" alt="">
+
