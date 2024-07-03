@@ -1,4 +1,4 @@
-# Halo Everyone! 
+# Hello Everyone! 
 
 I am **Reva Rasya Rafsanjani**.<br>
 
